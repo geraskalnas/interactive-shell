@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+  color: white;
+  padding: 30px;
+  height: 100vh;
+}
+#submit{
+  background-color: black;
+  color: white;
+}
+textarea { 
+  background-color: black;
+  color: white;
+  width: 100%;
+  min-height: 30vh;
+}
+#answer{
+  border: 0;
+  min-height: 50vh;
+}
